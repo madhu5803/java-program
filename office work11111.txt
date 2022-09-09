@@ -1,0 +1,47 @@
+Unit tests are useful at all levels of programming.
+
+
+
+
+What are unit test frameworks and how are they used? Simply stated, 
+they are software tools to support writing and running unit tests, 
+including a foundation on which to build tests and the functionality to execute the tests and report their results
+
+Unit test frameworks can contribute to almost every stage of software development, 
+including software architecture and design, code implementation and debugging, performance optimization, and quality assurance.
+
+
+TESTNG:-
+
+TestNG is also a Java-based unit testing framework. NG stands for 'Next Generation'.
+
+It processes Unit tests with passing parameters into the test methods.
+Making use of Threads enhances testing performance better as execution time is reduced
+
+
+TestNG provides parallel execution of test methods. It allows to define dependency of one test method over other method
+
+
+
+TestNG Parameters are the arguments that we pass to the test methods. 
+
+TestNG Parameters. TestNG DataProviders.
+
+
+GTEST:-
+
+Google Test (also known as gtest) is a unit testing library for the C++ programming language, based on the xUnit architecture.
+
+
+
+
+
+Unit testing ensures that all code meets quality standards before it's deployed.
+
+
+This framework is specifically designed for Java programming language.
+ In this, data is first tested and then it is inserted in the piece of code
+
+
+EMMA:  EMMA is an open-source toolkit for analyzing and reporting code written in Java language.
+Emma support coverage types like method, line, basic block. It is Java-based so it is without external library dependencies and can access the source code.
